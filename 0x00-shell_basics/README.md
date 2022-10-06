@@ -1,1 +1,1 @@
-# directory contain shell basics
+a non empty readme
