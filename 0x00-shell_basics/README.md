@@ -1,0 +1,1 @@
+# directory contain shell basics
